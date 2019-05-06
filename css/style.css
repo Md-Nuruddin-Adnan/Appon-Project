@@ -3,7 +3,7 @@
   padding: 0;
   outline: 0;
 }
-
+ 
 ul, li {
   list-style: none;
 }
@@ -854,10 +854,13 @@ font-family: 'Open Sans', sans-serif; */
   border-color: #744fa0;
   transition: all 0.5s liner;
 }
-
-
 /* footer end */
 
-
+/* test code for git start */
+.jumbotron {
+  background: #353535;
+  color: #fff;
+}
+/* test code for git end */
 
 
